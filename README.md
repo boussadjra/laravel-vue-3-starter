@@ -20,3 +20,8 @@ and front-end modules :
 
 finally add your magic.     
 
+# Setup docker
+Reference article: https://viblo.asia/p/minh-da-docker-hoa-mot-ung-dung-laravel-nhu-the-nao-naQZRyjjKvx
+
+# Setup Vue
+Reference article: https://viblo.asia/p/hello-word-with-vuejs-laravel-Qbq5QkBJZD8
